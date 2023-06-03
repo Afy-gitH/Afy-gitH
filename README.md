@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Afy-gitH, If you are my friend, maybe you can call me "Afy"
-- 👀 I’m interested in coading, plaintimg, puzzle solving, Now a days Data science too. if you any cool music, I am into that too
+- 👀 I’m interested in coding, plaintimg, puzzle solving, Now a days Data science too. if you any cool music, I am into that too
 - 🌱 I’m currently learning Machine learing, into the AI verse
 - 💞️ I’m looking to collaborate on Intresting geographical data science projects or any thing Data sciency
 - 📫 How to reach me out at my linkdin page : www.linkedin.com/in/afeefa-parveen-c-pop
