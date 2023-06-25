@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Afy-gitH, If you are my friend, maybe you can call me "Afy"
+
+<h2>Hellow there!</h2>
+- 👋 Hi, I’m Afeefa Parveen C, If you are my friend, maybe you can call me "Afy"
 - 👀 I’m interested in coding, painting, puzzle solving, Now a days Data science too. if you know any cool music, I am into that too.
 - 🌱 I’m currently learning Machine learing, into the AI verse
 - 💞️ I’m looking to collaborate on Intresting geographical data science projects or any thing Data sciency
